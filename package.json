@@ -1,0 +1,19 @@
+{
+  "name": "code-aggregator",
+  "version": "1.0.1",
+  "description": "",
+  "main": "code-aggregator.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "code-aggregator": "./code-aggregator.js"
+  }, 
+  "keywords": [],
+  "author": "_401_Nick",
+  "license": "ISC",
+  "devDependencies": {
+    "yargs": "^17.7.2"
+  }
+}
